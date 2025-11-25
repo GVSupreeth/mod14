@@ -1,4 +1,4 @@
-/* ---------- DARK MODE EDGE FIX ---------- */
+/* ---------- DARK MODE EDGE FIX ---------- 
 
 .sigma-edge {
     stroke: rgba(150, 150, 150, 0.2) !important;   /* darker + more transparent */
@@ -13,3 +13,4 @@
 .sigma-edge-label {
     fill: #aaa !important;                        /* dim labels if any */
 }
+*/
