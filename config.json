@@ -1,0 +1,53 @@
+{
+  "type": "network",
+  "version": "1.0",
+  "data": "data.json",
+  "logo": {
+    "file": "",
+    "link": "",
+    "text": "Supreeth"
+  },
+  "text": {
+    "more": "This interactive visualization shows the Les Misérables character\nco-occurrences. Nodes are sized by degree, colored by community, and \narranged using the ForceAtlas2 layout in Gephi.",
+    "intro": "Interactive sigma.js network exported from Gephi.",
+    "title": "Les Misérables Character Network"
+  },
+  "legend": {
+    "edgeLabel": "",
+    "colorLabel": "",
+    "nodeLabel": ""
+  },
+  "features": {
+    "search": true,
+    "groupSelectorAttribute": false,
+    "hoverBehavior": "default"
+  },
+  "informationPanel": {
+    "groupByEdgeDirection": false,
+    "imageAttribute": false
+  },
+  "sigma": {
+    "drawingProperties": {
+      "defaultEdgeType": "curve",
+      "defaultHoverLabelBGColor": "#002147",
+      "defaultLabelBGColor": "#ddd",
+      "activeFontStyle": "bold",
+      "defaultLabelColor": "#000",
+      "labelThreshold": 10,
+      "defaultLabelHoverColor": "#fff",
+      "fontStyle": "bold",
+      "hoverFontStyle": "bold",
+      "defaultLabelSize": 14
+    },
+    "graphProperties": {
+      "maxEdgeSize": 0.5,
+      "minEdgeSize": 0.2,
+      "minNodeSize": 1,
+      "maxNodeSize": 7
+    },
+    "mouseProperties": {
+      "maxRatio": 20,
+      "minRatio": 0.75
+    }
+  }
+}
